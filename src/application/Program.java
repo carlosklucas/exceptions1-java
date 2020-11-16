@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import entities.Reservation;
+import model.entities.Reservation;
 
 public class Program {
 
